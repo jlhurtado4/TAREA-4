@@ -34,7 +34,41 @@ EL PUENTE WHEATSTONE: El circuito puente Wheatstone se utiliza para medir con pr
 
 - **CAPITULO 8**
 
+LA FUENTE DE VOLTAJE DE CD: Como se aprendió en el capítulo 2, en aplicaciones electrónicas, la fuente de voltaje de cd es uno de los principales tipos de fuente de energía, así que resulta importante entender sus características. La fuente de voltaje de cd idealmente proporciona un voltaje constante a una carga, incluso cuando la resistencia de ésta varía.
 
+LA FUENTE DE CORRIENTE: Como se aprendió en el capítulo 2, la fuente de corriente es otro tipo de fuente de energía que idealmente suministra una corriente constante a una carga, incluso cuando la resistencia de ésta varía. El concepto de fuente de corriente es importante en ciertos tipos de circuitos transistorizados.
+
+CONVERSIONES DE FUENTES: Conversión de una fuente de voltaje en una fuente de corriente: El voltaje de fuente, VS, dividido entre la resistencia interna de la fuente, RS, da el valor de la corriente de la fuente equivalente. El valor de RS es el mismo tanto con la fuente de voltaje como con la fuente de corriente. Equivalencia de dos fuentes significa que con cualquier resistencia de carga dada que se conecte a las dos fuentes, ambas fuentes producen el mismo voltaje de carga y la misma corriente de carga. Este concepto de llama equivalencia terminal.
+
+Conversión de una fuente de corriente en una fuente de voltaje: La corriente de la fuente, IS, multiplicada por la resistencia interna de la fuente, RS, da el valor del voltaje de la fuente equivalente. De nuevo, RS no cambia. La polaridad de la fuente de voltaje es de menos a más en la dirección de la corriente. La fuente de voltaje equivalente es el voltaje en serie con RS
+
+EL TEOREMA DE SUPERPOSICION: Algunos circuitos requieren la instalación de más de una fuente de voltaje o de corriente. Por ejemplo, la mayoría de los amplificadores operan con dos fuentes de voltaje: una fuente de cd y una de ca. Adicionalmente, algunos amplificadores requieren tanto una fuente de voltaje de cd positiva como una negativa para operar apropiadamente. Cuando en un circuito se utilizan múltiples fuentes, el teorema de superposición proporciona un método de análisis.
+
+Un enunciado general del teorema de superposición es como sigue: En cualquier rama dada de un circuito con múltiples fuentes, la corriente puede calcularse al determinar en esa rama particular las corrientes producidas por cada fuente que actúa sola, con todas las demás fuentes reemplazadas por sus resistencias internas. La corriente total en la rama es la suma algebraica de las corrientes individuales presentes en dicha rama. 
+
+- Los pasos para aplicar el método de superposición son los siguientes:
+- - Paso 1. Dejar una fuente de voltaje (o de corriente) a la vez en el circuito y reemplazar cada una de las demás fuentes de voltaje (o de corriente) con su resistencia interna. Para fuentes ideales, un corto representa resistencia interna de cero y una abertura representa resistencia interna infinita.
+- - Paso 2. Determinar la corriente (o el voltaje) particular que se desea justo como si hubiera sólo una fuente en el circuito.
+- - Paso 3. Tomar la siguiente fuente que haya en el circuito y repetir los pasos 1 y 2. Hacer esto con cada una de las fuentes.
+- - Paso 4. Sumar algebraicamente las corrientes producidas por cada fuente individual para encontrar la corriente real en una rama dada. (Si las corrientes están en la misma dirección, se suman. Si están en direcciones opuestas, se restan y la dirección de la corriente resultante será la misma que la presentada por la cantidad más grande de las cantidades originales.) Una vez determinada la corriente, ya se puede calcular el voltaje mediante la ley de Ohm. 
+
+TEOREMA DE THEVENIN: El teorema de Thevenin proporciona un método para simplificar un circuito a una forma equivalente estándar. Se utiliza para hacer más sencillo el análisis de circuitos complejos.
+
+El voltaje equivalente, VTH, es una parte del circuito equivalente de Thevenin completo. La otra parte es RTH. En un circuito eléctrico, el voltaje equivalente de Thevenin (VTH) es el voltaje de circuito abierto (sin carga) presente entre dos terminales de salida. Cualquier componente conectado entre estas dos terminales “ve” efectivamente a VTH en serie con RTH. Como lo define el teorema de Thevenin, La resistencia equivalente de Thevenin (RTH) es la resistencia total que aparece entre dos terminales en un circuito dado que tiene todas las fuentes reemplazadas por sus resistencias internas. Aunque un circuito equivalente de Thevenin no es el mismo que su circuito original, actúa igual en función del voltaje y de la corriente de salida.
+
+TEOREMA DE NORTON: Al igual que el teorema de Thevenin, el teorema de Norton proporciona un método para reducir un circuito más complejo a una forma equivalente más simple. La diferencia básica es que el teorema de Norton da por resultado una fuente de corriente equivalente en paralelo con una resistencia equivalente. El teorema de Norton es un método empleado para simplificar un circuito lineal de dos terminales en un circuito equivalente con sólo una fuente de corriente en paralelo con un resistor. La forma del circuito equivalente de Norton se muestra en la figura 8-46. Sin importar cuán complejo es el circuito de dos terminales original, siempre puede ser reducido a esta forma equivalente. La fuente de corriente equivalente se designa como IN, y la resistencia equivalente como RN. Para aplicar el teorema de Norton, se debe saber cómo determinar las dos cantidades IN y RN. Una vez que se las determina para un circuito, simplemente se conectan en paralelo para obtener el circuito Norton completo.
+
+TEOREMA DE TRNSFERENCIA DE POTENCIA MÁXIMA: El teorema de transferencia de potencia máxima es importante cuando se tiene que conocer el valor de la carga con la cual la fuente suministra la máxima potencia. El teorema de transferencia de potencia máxima se fórmula como sigue: Para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente. La resistencia de la fuente, RS, de un circuito es la resistencia equivalente vista desde la terminal de salida utilizando el teorema de Thevenin.
+
+CONVERSIONES DELTA A (Y) Y (Y) A DELTA: Las conversiones entre configuraciones de circuito tipo delta y tipo Y son útiles en ciertas aplicaciones especializadas de tres terminales. Un ejemplo se encuentra en el análisis de un circuito puente Wheatstone con carga. 
+
+- - CONVERSION DELTA A (Y)
+
+Es conveniente pensar en la Y colocada dentro de la delta. Para convertir de delta a Y, se requieren R1, R2 y R3 en función de RA, RB y RC. La regla de conversión es como sigue: Cada resistor localizado en la Y es igual al producto de los resistores incluidos en dos ramas delta adyacentes, dividido entre la suma de los tres resistores en delta.
+
+- - CONVERSION (Y) A DELTA
+
+Para convertir de Y a delta, RA, RB y RC se requieren en función de R1, R2 y R3. La regla de conversión es la siguiente: Cada resistor incluido en la delta es igual a la suma de todos los posibles productos de resistores Y tomados dos a la vez, y divididos entre el resistor Y opuesto.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
