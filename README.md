@@ -100,11 +100,25 @@ Para convertir de Y a delta, RA, RB y RC se requieren en función de R1, R2 y R3
 
 **EJERCICIOS CAPITULO 8**
 
-
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-4-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-4-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-4-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-5-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-5-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-5-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-5-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-6-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-6-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-6-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-7-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-7-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-8-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/8-8-2.jpg)
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=yoGGTfONnwE
 
 5. CONCLUSIONES
 
