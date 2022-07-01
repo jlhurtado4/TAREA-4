@@ -40,7 +40,28 @@ EL PUENTE WHEATSTONE: El circuito puente Wheatstone se utiliza para medir con pr
 
 **EJERCICIOS CAPITULO 7**
 
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-1-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-1-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-1-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-1-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-5.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-8.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-2-9.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-3-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-3-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-3-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-3-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-5-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-5-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-5-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-4/blob/main/IMAGENES%20CAP%207%20Y%208/7-6.jpg)
 
 
 **EJERCICIOS CAPITULO 8**
