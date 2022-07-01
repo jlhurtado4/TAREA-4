@@ -40,6 +40,7 @@ EL PUENTE WHEATSTONE: El circuito puente Wheatstone se utiliza para medir con pr
 
 **EJERCICIOS CAPITULO 7**
 
+![alt text]()
 
 
 **EJERCICIOS CAPITULO 8**
@@ -59,4 +60,4 @@ EL PUENTE WHEATSTONE: El circuito puente Wheatstone se utiliza para medir con pr
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text](https://github.com/jlhurtado4/TAREA-3/blob/main/IMAGENES%20CAP%205%20Y%206/RubicasTarea.png)
+![alt text]()
