@@ -123,14 +123,22 @@ https://www.youtube.com/watch?v=yoGGTfONnwE
 5. CONCLUSIONES
 
 ◆ Un circuito en serie-paralelo es una combinación de trayectorias tanto en serie como en paralelo.
+
 ◆ Para determinar la resistencia total en un circuito en serie-paralelo, identifique las relaciones serie y paralelo, y luego aplique las fórmulas para resistencia en serie y resistencia en paralelo de los capítulos 5 y 6.
+
 ◆ Para encontrar la corriente total, aplique la ley de Ohm y divida el voltaje total entre la resistencia total.
+
 ◆ Para determinar corrientes de rama, aplique la fórmula del divisor de corriente, la ley de la corriente de Kirchhoff o ley de Ohm. Considere cada problema de circuito individualmente para encontrar el método más apropiado. 
 
+
 ◆ Una fuente de voltaje ideal tiene resistencia interna de cero. Proporciona un voltaje constante entre las terminales sin importar la resistencia de carga.
+
 ◆ Una fuente de voltaje práctica tiene resistencia interna distinta de cero.
+
 ◆ Una fuente de corriente ideal tiene resistencia interna infinita. Proporciona una corriente constante sin importar la resistencia de la carga.
+
 ◆ Una fuente de corriente práctica tiene resistencia interna finita.
+
 ◆ El teorema de superposición es útil para circuitos de fuentes múltiples.
 
 6. BIBLIOGRAFÍA
